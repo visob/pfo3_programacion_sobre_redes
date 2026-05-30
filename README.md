@@ -32,8 +32,8 @@ Salida esperada:
 ```
 
 # Notas
-•	Requisitos: Python 3.10+.
-•	No requiere instalación de dependencias externas (solo usa la librería estándar de Python: socket, threading, json, concurrent.futures).
+Requisitos: Python 3.10+.
+No requiere instalación de dependencias externas (solo usa la librería estándar de Python: socket, threading, json, concurrent.futures).
 
 # Autor
 Victoria Sobral
